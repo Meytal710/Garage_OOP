@@ -1,0 +1,11 @@
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Meyta\Desktop\computer science\3rd year\2nd\C#\Ex3\B22 Ex03 Sophie 308399096 Meytal 315042069\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
